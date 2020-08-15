@@ -1,0 +1,1 @@
+A Graphical User Interface application for tracking amazon prices and sending a mail as soon as the price lowers down the required price.
